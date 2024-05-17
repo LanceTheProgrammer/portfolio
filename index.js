@@ -34,6 +34,11 @@ document.addEventListener('DOMContentLoaded', function() {
       projectURL: "https://stately-axolotl-14ed3d.netlify.app/"
     },
     {
+      imageSrc: "./edusity.png",
+      projectName: "University Website",
+      projectURL: "https://main--mellifluous-dieffenbachia-38cc75.netlify.app/"
+    },
+    {
       imageSrc: "./video.png",
       projectName: "YouTube Clone",
       projectURL: "https://video-player-vite.netlify.app/"
