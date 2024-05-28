@@ -29,6 +29,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const projects = [
     {
+      imageSrc: "./gym-app.png",
+      projectName: "The workout Generator",
+      projectURL: "https://the-workout-generator.netlify.app/"
+    },
+    {
+      imageSrc: "./crypto.png",
+      projectName: "Crypto Market Tracker",
+      projectURL: "https://ltp-crypto.netlify.app/"
+    },
+    {
       imageSrc: "./gemini.png",
       projectName: "Gemini AI Chat Clone",
       projectURL: "https://stately-axolotl-14ed3d.netlify.app/"
